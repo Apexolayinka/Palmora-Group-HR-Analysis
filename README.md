@@ -25,8 +25,15 @@ This project is based on providing solution to gender inequality relating to gen
      2. Marketing, Research and Development and Training in Lagos
      3. Marketing, Engineering and Business Development in Kaduna
 ## Recommendations
-Restructure the company salary across the three regions, however, more focus on the departments mentioned above 
+Restructure the company salary across the three regions, however, more focus on Marketing, Human Resouces, Accounting, Research and Developmenht, Engineering and Business Development.
+## Dashboard Preview
 ![image](https://github.com/user-attachments/assets/285225b2-3c3e-404a-9c79-13b333cee1e7)
+## Author
+#### Timothy Kuranga
+#### Aspiring Data Analysist
+#### Email: kurangatimothy6@gmail.com
+#### Linkedin://www.linkedin.com/in/timothykuranga/
+
 
 
 
