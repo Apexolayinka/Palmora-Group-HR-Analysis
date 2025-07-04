@@ -27,3 +27,5 @@ This project is based on providing solution to gender inequality relating to gen
 ## Recommendations
 Restructure the company salary across the three regions, however, more focus on the departments mentioned above 
 
+
+
