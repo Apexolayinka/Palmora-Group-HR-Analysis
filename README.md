@@ -2,7 +2,7 @@
 This project is based on providing solution to gender inequality relating to gender pay gap across its different departments and regions.
 ## Project Topic: Analysis on Gender pay issue in Palmora Group
 ## Problem Identified
-#### Palmora Group has a gender related issue such as a pay gap between the male and female employees across its departments anmd regions
+#### Palmora Group has a gender related issue such as a pay gap between the male and female employees across its departments and regions
 ## Aim of this Project
 #### This project aims to proffer answers to the following:
 - Distribution of male, female and undisclosed (those that refused to declare their gender) employees across the company's department and regions
